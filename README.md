@@ -25,5 +25,5 @@
 ## Technologies
 
 ## Acknowledgments
-[Kaggle: BlackRock 2022 Q1 Holdings](https://www.kaggle.com/datasets/daxvdv/blackrock-2022-q1-holdings)
-[Kaggle: Spam Email Classification Dataset](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset)
+- [Kaggle: BlackRock 2022 Q1 Holdings](https://www.kaggle.com/datasets/daxvdv/blackrock-2022-q1-holdings)
+- [Kaggle: Spam Email Classification Dataset](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset)
